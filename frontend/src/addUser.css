@@ -1,0 +1,42 @@
+form{
+
+	margin-top: 150px;
+	margin-left: 200px;
+
+
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding: 25px;
+	
+}
+
+.formulaire{
+
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+}
+label p{
+	width: 100px;
+	justify-content: left;
+	height: 25px;
+}
+
+input{
+	width: 200px;
+	height: 25px;
+}
+
+#button {
+	background-color: #4CAF50; /* Green */
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin-left: 10px;
+}

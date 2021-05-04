@@ -1,0 +1,45 @@
+#table {
+	flex : 1.2;
+	border-radius: 5px;
+	box-shadow: 0px 2px 5px #1c1a19;
+	
+	margin: 100px 200px 200px 100px;
+	width: 90%;
+	padding: 10px;
+	/*border-collapse:collapse;*/
+	margin-left: 150px;
+
+}
+thead{
+	
+	border-color: #286be9;
+	background-color: black;
+	padding: 10px;
+	line-height: 40px;
+	color: white;
+
+}
+
+
+
+tbody{
+	
+	background-color: white;
+}
+
+.column, .cell {
+	text-align: center;
+}
+
+.icons {
+	width: 20px;
+	height: 20px;
+}
+
+td {
+	border-bottom: 1px solid black;
+}
+
+#buttons {
+	word-spacing: 100px;
+}
